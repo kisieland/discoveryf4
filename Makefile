@@ -68,7 +68,10 @@ Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c \
 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c \
 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c \
 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c \
-Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.c  
+Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.c \
+Msrc/leds_mapping.c \
+Msrc/print_img_gen.c \
+Msrc/mmain.c
 
 # ASM sources
 ASM_SOURCES =  \
