@@ -113,4 +113,15 @@ void print_img() {
 	LEDSetState(8, 1);
 	LEDSetState(9, 1);
 	HAL_Delay(60);
+	LEDSetState(0, 0);
+	LEDSetState(1, 0);
+	LEDSetState(2, 0);
+	LEDSetState(3, 0);
+	LEDSetState(4, 0);
+	LEDSetState(5, 0);
+	LEDSetState(6, 0);
+	LEDSetState(7, 0);
+	LEDSetState(8, 0);
+	LEDSetState(9, 0);
+	HAL_Delay(60);
 }
